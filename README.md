@@ -1,5 +1,6 @@
 # 💫 About Me:
-I study at ITMO University in the Infochemistry program. I study Python, FastAPI, Docker, PostgreSQL, etc.
+I’m currently learning Python, FastAPI, Docker, PostgreSQL.
+I’m studying at ITMO University in the Infochemistry Scientific Center.
 
 
 # 💻 Tech Stack:
